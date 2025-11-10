@@ -16,7 +16,7 @@ This project presents an AI-powered system for identifying early signs of insomn
 - [Technologies Used](#technologies-used)
 - [Future Scope](#future-scope)
 - [References](#references)
-- [License](#license)
+  
 
 ## Abstract
 
@@ -252,12 +252,10 @@ insomnia-detection/
 ## Contributors
 
 - Project Team: INT422 Project Group
-- Institution: [Your University Name]
+- Members : Sujal Kumar Nayak, Sajal Jain
+- Institution: [Lovely Professional University]
 - Course: INT422
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
@@ -267,7 +265,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions or collaborations, please contact: [Your Email]
+For questions or collaborations, please contact: [nayaksujalkumar@gmail.com]
 
 ---
 
